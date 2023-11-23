@@ -1,0 +1,22 @@
+# Ignorer les fichiers temporaires
+*.tmp
+*.swp
+*~
+
+# Ignorer les fichiers de configuration
+.gitignore
+.gitattributes
+.travis.yml
+
+# Ignorer les fichiers d'installation
+install.sh
+install.bat
+
+# Ignorer les fichiers de distribution
+dist
+wheelhouse
+
+# Ignorer les fichiers générés par le script
+*.png
+*.pdf
+*.svg
